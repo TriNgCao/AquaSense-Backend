@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+
+# User-specific Rider / VS files
+*.user
+*.suo
+.vs/
+.idea/
+
+# NuGet
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Runtime & test artifacts
+*.log
+TestResults/
+coverage/
+
+# Secrets — never commit real credentials
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+appsettings.*.local.json

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AquaSense.Backend/AquaSense.Backend.csproj" />
+  <Project Path="AquaSense.Simulator/AquaSense.Simulator.csproj" />
+</Solution>
